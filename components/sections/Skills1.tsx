@@ -19,16 +19,16 @@ export default function Skills1() {
 						<div className="d-flex flex-wrap flex-lg-nowrap justify-content-center gap-3 mb-7 px-6">
 							<div className="skills">
 								<div className="skills-icon mb-5">
-									<img src="/assets/imgs/skills/skills-1/icon-1.png" alt="" />
+									<img src="/assets/imgs/skills/skills-1/react.png" alt="" />
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0"><CountUp className="odometer fw-semibold" enableScrollSpy={true} end={98} />%</h3>
-									<p className="text-400 fw-medium text-uppercase">Figma</p>
+									<p className="text-400 fw-medium text-uppercase">React</p>
 								</div>
 							</div>
 							<div className="skills">
-								<div className="skills-icon mb-5">
-									<img src="/assets/imgs/skills/skills-1/icon-2.png" alt="" />
+								<div className="skills-icon mb-5 w-90 h-90">
+									<img src="/assets/imgs/skills/skills-1/express.png" alt="" />
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0"><CountUp className="odometer fw-semibold" enableScrollSpy={true} end={82} />%</h3>
