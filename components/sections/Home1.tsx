@@ -36,22 +36,22 @@ export default function Home1() {
 
   <div className="d-flex gap-3">
     <div className="brand-logo icon-xl icon-shape rounded-3 bg-900">
-      <img src="/assets/imgs/hero/hero-1/brand-1.png" alt="brand" />
+      <img src="/assets/imgs/skills/skills-1/react.png" alt="brand" />
     </div>
     <div className="brand-logo icon-xl icon-shape rounded-3 bg-900">
-      <img src="/assets/imgs/hero/hero-1/brand-2.png" alt="brand" />
+      <img src="/assets/imgs/skills/skills-1/express.png" alt="brand" />
     </div>
     <div className="brand-logo icon-xl icon-shape rounded-3 bg-900">
-      <img src="/assets/imgs/hero/hero-1/brand-3.png" alt="brand" />
+      <img src="/assets/imgs/skills/skills-1/angular.jpg" alt="brand" />
     </div>
     <div className="brand-logo icon-xl icon-shape rounded-3 bg-900">
-      <img src="/assets/imgs/hero/hero-1/brand-4.png" alt="brand" />
+      <img src="/assets/imgs/skills/skills-1/ts.png" alt="brand" />
     </div>
     <div className="brand-logo icon-xl icon-shape rounded-3 bg-900">
-      <img src="/assets/imgs/hero/hero-1/brand-5.png" alt="brand" />
+      <img src="/assets/imgs/skills/skills-1/aws.png" alt="brand" />
     </div>
     <div className="brand-logo icon-xl icon-shape rounded-3 bg-900 d-none d-md-flex">
-      <img src="/assets/imgs/hero/hero-1/brand-6.png" alt="brand" />
+      <img src="/assets/imgs/skills/skills-1/pg.png" alt="brand" />
     </div>
   </div>
 </div>
