@@ -32,52 +32,52 @@ export default function Skills1() {
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0"><CountUp className="odometer fw-semibold" enableScrollSpy={true} end={82} />%</h3>
-									<p className="text-400 fw-medium text-uppercase">Adobe XD</p>
+									<p className="text-400 fw-medium text-uppercase">Express</p>
 								</div>
 							</div>
 							<div className="skills">
 								<div className="skills-icon mb-5">
-									<img src="/assets/imgs/skills/skills-1/icon-3.png" alt="" />
+									<img src="/assets/imgs/skills/skills-1/angular.jpg" alt="" />
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0"><CountUp className="odometer fw-semibold" enableScrollSpy={true} end={76} />%</h3>
-									<p className="text-400 fw-medium text-uppercase">Illustrator</p>
+									<p className="text-400 fw-medium text-uppercase">Angular</p>
 								</div>
 							</div>
 							<div className="skills">
 								<div className="skills-icon mb-5">
-									<img src="/assets/imgs/skills/skills-1/icon-4.png" alt="" />
+									<img src="/assets/imgs/skills/skills-1/ts.png" alt="" />
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0"><CountUp className="odometer fw-semibold" enableScrollSpy={true} end={58} />%</h3>
-									<p className="text-400 fw-medium text-uppercase">Sketch </p>
+									<p className="text-400 fw-medium text-uppercase">TypeScript </p>
 								</div>
 							</div>
 							<div className="skills">
 								<div className="skills-icon mb-5">
-									<img src="/assets/imgs/skills/skills-1/icon-5.png" alt="" />
+									<img src="/assets/imgs/skills/skills-1/dotnet.jpg" alt="" />
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0"><CountUp className="odometer fw-semibold" enableScrollSpy={true} end={60} />%</h3>
-									<p className="text-400 fw-medium text-uppercase">Photoshop</p>
+									<p className="text-400 fw-medium text-uppercase">Dot Net</p>
 								</div>
 							</div>
 							<div className="skills">
 								<div className="skills-icon mb-5">
-									<img src="/assets/imgs/skills/skills-1/icon-6.png" alt="" />
+									<img src="/assets/imgs/skills/skills-1/aws.png" alt="" />
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0"><CountUp className="odometer fw-semibold" enableScrollSpy={true} end={72} />%</h3>
-									<p className="text-400 fw-medium text-uppercase">Webflow</p>
+									<p className="text-400 fw-medium text-uppercase">AWS</p>
 								</div>
 							</div>
 							<div className="skills">
 								<div className="skills-icon mb-5">
-									<img src="/assets/imgs/skills/skills-1/icon-7.png" alt="" />
+									<img src="/assets/imgs/skills/skills-1/pg.png" alt="" />
 								</div>
 								<div className="skills-ratio text-center">
 									<h3 className="count fw-semibold my-0"><CountUp className="odometer fw-semibold" enableScrollSpy={true} end={93} />%</h3>
-									<p className="text-400 fw-medium text-uppercase">Framer</p>
+									<p className="text-400 fw-medium text-uppercase">PostGre SQL</p>
 								</div>
 							</div>
 						</div>
